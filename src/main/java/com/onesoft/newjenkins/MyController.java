@@ -8,7 +8,7 @@ public class MyController {
 	
 	@GetMapping(value="/get")
 	public String getMsg() {
-		return "Hello India";
+		return "Hello";
 		
 	}
 	
